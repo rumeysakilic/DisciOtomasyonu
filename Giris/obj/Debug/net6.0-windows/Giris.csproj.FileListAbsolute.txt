@@ -1,0 +1,17 @@
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\bin\Debug\net6.0-windows\Giris.exe
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\bin\Debug\net6.0-windows\Giris.deps.json
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\bin\Debug\net6.0-windows\Giris.runtimeconfig.json
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\bin\Debug\net6.0-windows\Giris.dll
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\bin\Debug\net6.0-windows\Giris.pdb
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.Form1.resources
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.Properties.Resources.resources
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.csproj.GenerateResource.cache
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.AssemblyInfoInputs.cache
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.AssemblyInfo.cs
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.csproj.CoreCompileInputs.cache
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.dll
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\refint\Giris.dll
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.pdb
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\Giris.genruntimeconfig.cache
+C:\Users\rumey\VS Ornekler\DisciOtomasyonu\Giris\obj\Debug\net6.0-windows\ref\Giris.dll

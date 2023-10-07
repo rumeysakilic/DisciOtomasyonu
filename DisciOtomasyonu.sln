@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisciOtomasyonu", "DisciOtomasyonu\DisciOtomasyonu.csproj", "{D48F94D4-6A68-4F40-A53E-ABB8EE2F0904}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Giris", "Giris\Giris.csproj", "{F96D4D3E-8780-4336-81F1-78B08C0B4129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D48F94D4-6A68-4F40-A53E-ABB8EE2F0904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48F94D4-6A68-4F40-A53E-ABB8EE2F0904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48F94D4-6A68-4F40-A53E-ABB8EE2F0904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48F94D4-6A68-4F40-A53E-ABB8EE2F0904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96D4D3E-8780-4336-81F1-78B08C0B4129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96D4D3E-8780-4336-81F1-78B08C0B4129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96D4D3E-8780-4336-81F1-78B08C0B4129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96D4D3E-8780-4336-81F1-78B08C0B4129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DCC6187-01C2-4E9F-96D8-D200CE17796D}
+	EndGlobalSection
+EndGlobal
